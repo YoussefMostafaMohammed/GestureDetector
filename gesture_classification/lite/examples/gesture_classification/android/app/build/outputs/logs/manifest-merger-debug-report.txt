@@ -1,0 +1,462 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:2:1-48:12
+MERGED from [androidx.databinding:viewbinding:8.11.0] /home/youssef/.gradle/caches/8.13/transforms/7aec4d5241157edd7a5f979f72eb0572/transformed/viewbinding-8.11.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.1] /home/youssef/.gradle/caches/8.13/transforms/c4ff4ceb8c4e2b99e91f43dbf01a5588/transformed/navigation-ui-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.5.1] /home/youssef/.gradle/caches/8.13/transforms/b1b7af53311595e9e92a8f0445326aca/transformed/navigation-ui-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.6.1] /home/youssef/.gradle/caches/8.13/transforms/13de47c6daaf76c0490380048340c7cb/transformed/material-1.6.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/youssef/.gradle/caches/8.13/transforms/262603b70c20a0de02184994d69564f0/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.camera:camera-view:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/a23ca0fce8b5231f83597cafd48d6756/transformed/camera-view-1.2.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.0] /home/youssef/.gradle/caches/8.13/transforms/69c14de0e7e1157d9d243287a3881c2b/transformed/appcompat-resources-1.5.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.5.0] /home/youssef/.gradle/caches/8.13/transforms/74654c25cc85383c5e84d771ec1cb03e/transformed/appcompat-1.5.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/069ac80a01fb053968a1566d08bfb250/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-lifecycle:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/c24b803aa8b82d82e40f3d42ed9f42a1/transformed/camera-lifecycle-1.2.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/0c16c2886211f04f10071c09b4bf84c0/transformed/camera-core-1.2.0-alpha04/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.1] /home/youssef/.gradle/caches/8.13/transforms/1b12f70f7e8695059ea6aac5d0f6a227/transformed/navigation-fragment-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.1] /home/youssef/.gradle/caches/8.13/transforms/f8f2fe3e5d5ba792eb88b9a8d4dd7253/transformed/navigation-fragment-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/youssef/.gradle/caches/8.13/transforms/2128cca682767f72129b1929ef531445/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.1.0-alpha03] /home/youssef/.gradle/caches/8.13/transforms/903afa26873b513e6539748e3e30ee9f/transformed/window-1.1.0-alpha03/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/youssef/.gradle/caches/8.13/transforms/32dd28e045f76898be0c1cc5a5198cab/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/youssef/.gradle/caches/8.13/transforms/18800c054c951fca4dbdcf689c3c52da/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/youssef/.gradle/caches/8.13/transforms/e3dd2a65e1fd089425182238fae99206/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/youssef/.gradle/caches/8.13/transforms/55ac2f560485894e89ddcbb31509b2cb/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/aad1e521ba87b5626579676f4b55eb10/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/youssef/.gradle/caches/8.13/transforms/abb8383d2738fb2a43da0eb87fa6a892/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/youssef/.gradle/caches/8.13/transforms/cdd6376f403c68febe8259f9581d9a3e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/94fe77ad40e1755ad57300d477ebcc24/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/993405288e8b4fc761509121aed0c510/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.1] /home/youssef/.gradle/caches/8.13/transforms/4aeba55c9d9025fbaef26af073fb1926/transformed/fragment-ktx-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.1] /home/youssef/.gradle/caches/8.13/transforms/8d4c4c9eec5f9bb7d841c63f8aec8340/transformed/fragment-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/640d9f5b9b77d25fbaa4588a274fe054/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/youssef/.gradle/caches/8.13/transforms/88ee3468fdf307101c16883848b1a353/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/9ec6e9263bc1598d9382e5f6b4eb8458/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /home/youssef/.gradle/caches/8.13/transforms/99b2f3486368048261fee494ded3cde0/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] /home/youssef/.gradle/caches/8.13/transforms/8bdc0edbef58ec18b00540877016107a/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] /home/youssef/.gradle/caches/8.13/transforms/97436560bf01ccfc5791cba19350a46d/transformed/navigation-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] /home/youssef/.gradle/caches/8.13/transforms/6c55b38358bec8119add973e025267ad/transformed/navigation-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] /home/youssef/.gradle/caches/8.13/transforms/401571417c9a4ab8f2f073b4c6bf8a70/transformed/activity-ktx-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] /home/youssef/.gradle/caches/8.13/transforms/f487bfe7d84523498c967351e8fcccb7/transformed/activity-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.15.0] /home/youssef/.gradle/caches/8.13/transforms/ec1638c93fa07e8dd7b5f7baa9e2234b/transformed/core-1.15.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] /home/youssef/.gradle/caches/8.13/transforms/e6c8861fca8a4a53925471c69398ba2e/transformed/navigation-common-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.1] /home/youssef/.gradle/caches/8.13/transforms/5c2d070e5d7f8324426d09416abafde7/transformed/navigation-common-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/34db1597fb76e6644147dc4e5c0e5fbe/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/9d7941034eb786614adf1b16e0f9fe38/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/0d17fe1524dabfc4f53b76229022a774/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/c2d8757c9941bde630f6a95f70143049/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/148a54df47e4f965d99a47614a1b5554/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/a9fe85b024daee9daee0c2b75a367184/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/524f38de37e706380a319c9fbd5622ab/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/youssef/.gradle/caches/8.13/transforms/0846a2a67a56882a740a1b81c1627014/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/youssef/.gradle/caches/8.13/transforms/a6a13ba6fdbd3b5e009d10ad89b4e5a8/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/735f6dc9770da159a18610bafff48fa6/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/f836b50dd60cddc1d39c8fa4f122b220/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.15.0] /home/youssef/.gradle/caches/8.13/transforms/64f0f7f9d09d03bd77c14ffe6e362dd0/transformed/core-ktx-1.15.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/19831e52ba832f1e78e4857af19cf7d0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/a545c77c88b29e7a93c1cec3c9e1d26e/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/youssef/.gradle/caches/8.13/transforms/84386baf7341cced42ecbb0464922514/transformed/exifinterface-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/bff97b40589c4062ce7bf7e9314708fe/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/youssef/.gradle/caches/8.13/transforms/4405dbeed28858d9491e8340d598f0fd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /home/youssef/.gradle/caches/8.13/transforms/c117d5dbd508fa6878618d6102f813ec/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/youssef/.gradle/caches/8.13/transforms/4ac078d0febbf5cfa2c0bf02b22a1724/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/youssef/.gradle/caches/8.13/transforms/eac74b34175474a3b066d3f410bc16c8/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/41496be4e74432feb799879f1f996c09/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/27c68b23af1f88e5a91f533283680fe1/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/26e4971049e5bd3a0e6c051932914d70/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/youssef/.gradle/caches/8.13/transforms/e1003cee74e3de21f2622fb4ca971e95/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.4.0] /home/youssef/.gradle/caches/8.13/transforms/300593653909f7bd7941c9700bdd97bf/transformed/tensorflow-lite-task-vision-0.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu-delegate-plugin:0.4.0] /home/youssef/.gradle/caches/8.13/transforms/54898872462e914db2e8bdfc22810399/transformed/tensorflow-lite-gpu-delegate-plugin-0.4.0/AndroidManifest.xml:2:1-6:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.9.0] /home/youssef/.gradle/caches/8.13/transforms/0411a97a61c2a44e32445ed66f096276/transformed/tensorflow-lite-gpu-2.9.0/AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.0] /home/youssef/.gradle/caches/8.13/transforms/da16ebbd7a14d65a68c46a32c5a1e1ce/transformed/tensorflow-lite-task-base-0.4.0/AndroidManifest.xml:2:1-6:12
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.0] /home/youssef/.gradle/caches/8.13/transforms/bd1151deefec6aead67515e9108eb3d5/transformed/tensorflow-lite-support-api-0.4.0/AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] /home/youssef/.gradle/caches/8.13/transforms/b3f0d55247b0501ee7075832af81612c/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /home/youssef/.gradle/caches/8.13/transforms/9ad1f6ffeb5d45e0344d0645eb4a0404/transformed/image-1.0.0-beta1/AndroidManifest.xml:2:1-9:12
+	package
+		ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:5:5-65
+		INJECTED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:4:5-51
+	xmlns:dist
+		ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:3:5-61
+	android:versionCode
+		INJECTED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:2:11-69
+dist:module
+ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:8:5-40
+	dist:instant
+		ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:8:18-37
+uses-feature#android.hardware.camera
+ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:11:19-57
+uses-permission#android.permission.CAMERA
+ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:14:22-62
+application
+ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:15:5-46:19
+INJECTED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:15:5-46:19
+MERGED from [com.google.android.material:material:1.6.1] /home/youssef/.gradle/caches/8.13/transforms/13de47c6daaf76c0490380048340c7cb/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] /home/youssef/.gradle/caches/8.13/transforms/13de47c6daaf76c0490380048340c7cb/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/youssef/.gradle/caches/8.13/transforms/262603b70c20a0de02184994d69564f0/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/youssef/.gradle/caches/8.13/transforms/262603b70c20a0de02184994d69564f0/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/069ac80a01fb053968a1566d08bfb250/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/069ac80a01fb053968a1566d08bfb250/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/0c16c2886211f04f10071c09b4bf84c0/transformed/camera-core-1.2.0-alpha04/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/0c16c2886211f04f10071c09b4bf84c0/transformed/camera-core-1.2.0-alpha04/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.window:window:1.1.0-alpha03] /home/youssef/.gradle/caches/8.13/transforms/903afa26873b513e6539748e3e30ee9f/transformed/window-1.1.0-alpha03/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.1.0-alpha03] /home/youssef/.gradle/caches/8.13/transforms/903afa26873b513e6539748e3e30ee9f/transformed/window-1.1.0-alpha03/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/youssef/.gradle/caches/8.13/transforms/18800c054c951fca4dbdcf689c3c52da/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/youssef/.gradle/caches/8.13/transforms/18800c054c951fca4dbdcf689c3c52da/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.15.0] /home/youssef/.gradle/caches/8.13/transforms/ec1638c93fa07e8dd7b5f7baa9e2234b/transformed/core-1.15.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] /home/youssef/.gradle/caches/8.13/transforms/ec1638c93fa07e8dd7b5f7baa9e2234b/transformed/core-1.15.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/a9fe85b024daee9daee0c2b75a367184/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/a9fe85b024daee9daee0c2b75a367184/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/youssef/.gradle/caches/8.13/transforms/4405dbeed28858d9491e8340d598f0fd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/youssef/.gradle/caches/8.13/transforms/4405dbeed28858d9491e8340d598f0fd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/youssef/.gradle/caches/8.13/transforms/4ac078d0febbf5cfa2c0bf02b22a1724/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/youssef/.gradle/caches/8.13/transforms/4ac078d0febbf5cfa2c0bf02b22a1724/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [org.tensorflow:tensorflow-lite-gpu-delegate-plugin:0.4.0] /home/youssef/.gradle/caches/8.13/transforms/54898872462e914db2e8bdfc22810399/transformed/tensorflow-lite-gpu-delegate-plugin-0.4.0/AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-gpu-delegate-plugin:0.4.0] /home/youssef/.gradle/caches/8.13/transforms/54898872462e914db2e8bdfc22810399/transformed/tensorflow-lite-gpu-delegate-plugin-0.4.0/AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.9.0] /home/youssef/.gradle/caches/8.13/transforms/0411a97a61c2a44e32445ed66f096276/transformed/tensorflow-lite-gpu-2.9.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.9.0] /home/youssef/.gradle/caches/8.13/transforms/0411a97a61c2a44e32445ed66f096276/transformed/tensorflow-lite-gpu-2.9.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.0] /home/youssef/.gradle/caches/8.13/transforms/da16ebbd7a14d65a68c46a32c5a1e1ce/transformed/tensorflow-lite-task-base-0.4.0/AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.0] /home/youssef/.gradle/caches/8.13/transforms/da16ebbd7a14d65a68c46a32c5a1e1ce/transformed/tensorflow-lite-task-base-0.4.0/AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] /home/youssef/.gradle/caches/8.13/transforms/b3f0d55247b0501ee7075832af81612c/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] /home/youssef/.gradle/caches/8.13/transforms/b3f0d55247b0501ee7075832af81612c/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /home/youssef/.gradle/caches/8.13/transforms/9ad1f6ffeb5d45e0344d0645eb4a0404/transformed/image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /home/youssef/.gradle/caches/8.13/transforms/9ad1f6ffeb5d45e0344d0645eb4a0404/transformed/image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+	android:extractNativeLibs
+		INJECTED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.15.0] /home/youssef/.gradle/caches/8.13/transforms/ec1638c93fa07e8dd7b5f7baa9e2234b/transformed/core-1.15.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:18:9-41
+	tools:ignore
+		ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:22:9-35
+	android:roundIcon
+		ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:19:9-54
+	android:icon
+		ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:16:9-35
+	android:taskAffinity
+		ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:21:9-32
+activity#org.tensorflow.lite.examples.gestureclassification.MainActivity
+ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:24:9-45:20
+	android:clearTaskOnLaunch
+		ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:26:13-45
+	android:exported
+		ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:28:13-36
+	android:resizeableActivity
+		ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:29:13-46
+	android:rotationAnimation
+		ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:30:13-49
+	android:configChanges
+		ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:27:13-91
+	tools:targetApi
+		ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:32:13-32
+	android:theme
+		ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:25:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:38:27-74
+meta-data#android.notch_support
+ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:42:13-44:40
+	android:value
+		ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:44:17-37
+	android:name
+		ADDED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:43:17-53
+uses-sdk
+INJECTED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.11.0] /home/youssef/.gradle/caches/8.13/transforms/7aec4d5241157edd7a5f979f72eb0572/transformed/viewbinding-8.11.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.11.0] /home/youssef/.gradle/caches/8.13/transforms/7aec4d5241157edd7a5f979f72eb0572/transformed/viewbinding-8.11.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.1] /home/youssef/.gradle/caches/8.13/transforms/c4ff4ceb8c4e2b99e91f43dbf01a5588/transformed/navigation-ui-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.1] /home/youssef/.gradle/caches/8.13/transforms/c4ff4ceb8c4e2b99e91f43dbf01a5588/transformed/navigation-ui-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.1] /home/youssef/.gradle/caches/8.13/transforms/b1b7af53311595e9e92a8f0445326aca/transformed/navigation-ui-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.1] /home/youssef/.gradle/caches/8.13/transforms/b1b7af53311595e9e92a8f0445326aca/transformed/navigation-ui-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] /home/youssef/.gradle/caches/8.13/transforms/13de47c6daaf76c0490380048340c7cb/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] /home/youssef/.gradle/caches/8.13/transforms/13de47c6daaf76c0490380048340c7cb/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/youssef/.gradle/caches/8.13/transforms/262603b70c20a0de02184994d69564f0/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/youssef/.gradle/caches/8.13/transforms/262603b70c20a0de02184994d69564f0/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.camera:camera-view:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/a23ca0fce8b5231f83597cafd48d6756/transformed/camera-view-1.2.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-view:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/a23ca0fce8b5231f83597cafd48d6756/transformed/camera-view-1.2.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.0] /home/youssef/.gradle/caches/8.13/transforms/69c14de0e7e1157d9d243287a3881c2b/transformed/appcompat-resources-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.0] /home/youssef/.gradle/caches/8.13/transforms/69c14de0e7e1157d9d243287a3881c2b/transformed/appcompat-resources-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.0] /home/youssef/.gradle/caches/8.13/transforms/74654c25cc85383c5e84d771ec1cb03e/transformed/appcompat-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.0] /home/youssef/.gradle/caches/8.13/transforms/74654c25cc85383c5e84d771ec1cb03e/transformed/appcompat-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/069ac80a01fb053968a1566d08bfb250/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/069ac80a01fb053968a1566d08bfb250/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/c24b803aa8b82d82e40f3d42ed9f42a1/transformed/camera-lifecycle-1.2.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/c24b803aa8b82d82e40f3d42ed9f42a1/transformed/camera-lifecycle-1.2.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/0c16c2886211f04f10071c09b4bf84c0/transformed/camera-core-1.2.0-alpha04/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/0c16c2886211f04f10071c09b4bf84c0/transformed/camera-core-1.2.0-alpha04/AndroidManifest.xml:21:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.1] /home/youssef/.gradle/caches/8.13/transforms/1b12f70f7e8695059ea6aac5d0f6a227/transformed/navigation-fragment-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.1] /home/youssef/.gradle/caches/8.13/transforms/1b12f70f7e8695059ea6aac5d0f6a227/transformed/navigation-fragment-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.1] /home/youssef/.gradle/caches/8.13/transforms/f8f2fe3e5d5ba792eb88b9a8d4dd7253/transformed/navigation-fragment-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.1] /home/youssef/.gradle/caches/8.13/transforms/f8f2fe3e5d5ba792eb88b9a8d4dd7253/transformed/navigation-fragment-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/youssef/.gradle/caches/8.13/transforms/2128cca682767f72129b1929ef531445/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/youssef/.gradle/caches/8.13/transforms/2128cca682767f72129b1929ef531445/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.1.0-alpha03] /home/youssef/.gradle/caches/8.13/transforms/903afa26873b513e6539748e3e30ee9f/transformed/window-1.1.0-alpha03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.1.0-alpha03] /home/youssef/.gradle/caches/8.13/transforms/903afa26873b513e6539748e3e30ee9f/transformed/window-1.1.0-alpha03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/youssef/.gradle/caches/8.13/transforms/32dd28e045f76898be0c1cc5a5198cab/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/youssef/.gradle/caches/8.13/transforms/32dd28e045f76898be0c1cc5a5198cab/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/youssef/.gradle/caches/8.13/transforms/18800c054c951fca4dbdcf689c3c52da/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/youssef/.gradle/caches/8.13/transforms/18800c054c951fca4dbdcf689c3c52da/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/youssef/.gradle/caches/8.13/transforms/e3dd2a65e1fd089425182238fae99206/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/youssef/.gradle/caches/8.13/transforms/e3dd2a65e1fd089425182238fae99206/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/youssef/.gradle/caches/8.13/transforms/55ac2f560485894e89ddcbb31509b2cb/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/youssef/.gradle/caches/8.13/transforms/55ac2f560485894e89ddcbb31509b2cb/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/aad1e521ba87b5626579676f4b55eb10/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/aad1e521ba87b5626579676f4b55eb10/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/youssef/.gradle/caches/8.13/transforms/abb8383d2738fb2a43da0eb87fa6a892/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/youssef/.gradle/caches/8.13/transforms/abb8383d2738fb2a43da0eb87fa6a892/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/youssef/.gradle/caches/8.13/transforms/cdd6376f403c68febe8259f9581d9a3e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/youssef/.gradle/caches/8.13/transforms/cdd6376f403c68febe8259f9581d9a3e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/94fe77ad40e1755ad57300d477ebcc24/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/94fe77ad40e1755ad57300d477ebcc24/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/993405288e8b4fc761509121aed0c510/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/993405288e8b4fc761509121aed0c510/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.5.1] /home/youssef/.gradle/caches/8.13/transforms/4aeba55c9d9025fbaef26af073fb1926/transformed/fragment-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.1] /home/youssef/.gradle/caches/8.13/transforms/4aeba55c9d9025fbaef26af073fb1926/transformed/fragment-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] /home/youssef/.gradle/caches/8.13/transforms/8d4c4c9eec5f9bb7d841c63f8aec8340/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] /home/youssef/.gradle/caches/8.13/transforms/8d4c4c9eec5f9bb7d841c63f8aec8340/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/640d9f5b9b77d25fbaa4588a274fe054/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/640d9f5b9b77d25fbaa4588a274fe054/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/youssef/.gradle/caches/8.13/transforms/88ee3468fdf307101c16883848b1a353/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/youssef/.gradle/caches/8.13/transforms/88ee3468fdf307101c16883848b1a353/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/9ec6e9263bc1598d9382e5f6b4eb8458/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/9ec6e9263bc1598d9382e5f6b4eb8458/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/youssef/.gradle/caches/8.13/transforms/99b2f3486368048261fee494ded3cde0/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/youssef/.gradle/caches/8.13/transforms/99b2f3486368048261fee494ded3cde0/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /home/youssef/.gradle/caches/8.13/transforms/8bdc0edbef58ec18b00540877016107a/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /home/youssef/.gradle/caches/8.13/transforms/8bdc0edbef58ec18b00540877016107a/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] /home/youssef/.gradle/caches/8.13/transforms/97436560bf01ccfc5791cba19350a46d/transformed/navigation-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] /home/youssef/.gradle/caches/8.13/transforms/97436560bf01ccfc5791cba19350a46d/transformed/navigation-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] /home/youssef/.gradle/caches/8.13/transforms/6c55b38358bec8119add973e025267ad/transformed/navigation-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] /home/youssef/.gradle/caches/8.13/transforms/6c55b38358bec8119add973e025267ad/transformed/navigation-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /home/youssef/.gradle/caches/8.13/transforms/401571417c9a4ab8f2f073b4c6bf8a70/transformed/activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /home/youssef/.gradle/caches/8.13/transforms/401571417c9a4ab8f2f073b4c6bf8a70/transformed/activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /home/youssef/.gradle/caches/8.13/transforms/f487bfe7d84523498c967351e8fcccb7/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /home/youssef/.gradle/caches/8.13/transforms/f487bfe7d84523498c967351e8fcccb7/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.15.0] /home/youssef/.gradle/caches/8.13/transforms/ec1638c93fa07e8dd7b5f7baa9e2234b/transformed/core-1.15.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] /home/youssef/.gradle/caches/8.13/transforms/ec1638c93fa07e8dd7b5f7baa9e2234b/transformed/core-1.15.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] /home/youssef/.gradle/caches/8.13/transforms/e6c8861fca8a4a53925471c69398ba2e/transformed/navigation-common-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] /home/youssef/.gradle/caches/8.13/transforms/e6c8861fca8a4a53925471c69398ba2e/transformed/navigation-common-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.1] /home/youssef/.gradle/caches/8.13/transforms/5c2d070e5d7f8324426d09416abafde7/transformed/navigation-common-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.1] /home/youssef/.gradle/caches/8.13/transforms/5c2d070e5d7f8324426d09416abafde7/transformed/navigation-common-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/34db1597fb76e6644147dc4e5c0e5fbe/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/34db1597fb76e6644147dc4e5c0e5fbe/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/9d7941034eb786614adf1b16e0f9fe38/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/9d7941034eb786614adf1b16e0f9fe38/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/0d17fe1524dabfc4f53b76229022a774/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/0d17fe1524dabfc4f53b76229022a774/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/c2d8757c9941bde630f6a95f70143049/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/c2d8757c9941bde630f6a95f70143049/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/148a54df47e4f965d99a47614a1b5554/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/148a54df47e4f965d99a47614a1b5554/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/a9fe85b024daee9daee0c2b75a367184/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/a9fe85b024daee9daee0c2b75a367184/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/524f38de37e706380a319c9fbd5622ab/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/524f38de37e706380a319c9fbd5622ab/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/youssef/.gradle/caches/8.13/transforms/0846a2a67a56882a740a1b81c1627014/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/youssef/.gradle/caches/8.13/transforms/0846a2a67a56882a740a1b81c1627014/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/youssef/.gradle/caches/8.13/transforms/a6a13ba6fdbd3b5e009d10ad89b4e5a8/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/youssef/.gradle/caches/8.13/transforms/a6a13ba6fdbd3b5e009d10ad89b4e5a8/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/735f6dc9770da159a18610bafff48fa6/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/735f6dc9770da159a18610bafff48fa6/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/f836b50dd60cddc1d39c8fa4f122b220/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/f836b50dd60cddc1d39c8fa4f122b220/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] /home/youssef/.gradle/caches/8.13/transforms/64f0f7f9d09d03bd77c14ffe6e362dd0/transformed/core-ktx-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] /home/youssef/.gradle/caches/8.13/transforms/64f0f7f9d09d03bd77c14ffe6e362dd0/transformed/core-ktx-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/19831e52ba832f1e78e4857af19cf7d0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/19831e52ba832f1e78e4857af19cf7d0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/a545c77c88b29e7a93c1cec3c9e1d26e/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/a545c77c88b29e7a93c1cec3c9e1d26e/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/youssef/.gradle/caches/8.13/transforms/84386baf7341cced42ecbb0464922514/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/youssef/.gradle/caches/8.13/transforms/84386baf7341cced42ecbb0464922514/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/bff97b40589c4062ce7bf7e9314708fe/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/bff97b40589c4062ce7bf7e9314708fe/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/youssef/.gradle/caches/8.13/transforms/4405dbeed28858d9491e8340d598f0fd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/youssef/.gradle/caches/8.13/transforms/4405dbeed28858d9491e8340d598f0fd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /home/youssef/.gradle/caches/8.13/transforms/c117d5dbd508fa6878618d6102f813ec/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /home/youssef/.gradle/caches/8.13/transforms/c117d5dbd508fa6878618d6102f813ec/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/youssef/.gradle/caches/8.13/transforms/4ac078d0febbf5cfa2c0bf02b22a1724/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/youssef/.gradle/caches/8.13/transforms/4ac078d0febbf5cfa2c0bf02b22a1724/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/youssef/.gradle/caches/8.13/transforms/eac74b34175474a3b066d3f410bc16c8/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/youssef/.gradle/caches/8.13/transforms/eac74b34175474a3b066d3f410bc16c8/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/41496be4e74432feb799879f1f996c09/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/41496be4e74432feb799879f1f996c09/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/27c68b23af1f88e5a91f533283680fe1/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/27c68b23af1f88e5a91f533283680fe1/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/26e4971049e5bd3a0e6c051932914d70/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/youssef/.gradle/caches/8.13/transforms/26e4971049e5bd3a0e6c051932914d70/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/youssef/.gradle/caches/8.13/transforms/e1003cee74e3de21f2622fb4ca971e95/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/youssef/.gradle/caches/8.13/transforms/e1003cee74e3de21f2622fb4ca971e95/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.4.0] /home/youssef/.gradle/caches/8.13/transforms/300593653909f7bd7941c9700bdd97bf/transformed/tensorflow-lite-task-vision-0.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.4.0] /home/youssef/.gradle/caches/8.13/transforms/300593653909f7bd7941c9700bdd97bf/transformed/tensorflow-lite-task-vision-0.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.9.0] /home/youssef/.gradle/caches/8.13/transforms/0411a97a61c2a44e32445ed66f096276/transformed/tensorflow-lite-gpu-2.9.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.9.0] /home/youssef/.gradle/caches/8.13/transforms/0411a97a61c2a44e32445ed66f096276/transformed/tensorflow-lite-gpu-2.9.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.0] /home/youssef/.gradle/caches/8.13/transforms/bd1151deefec6aead67515e9108eb3d5/transformed/tensorflow-lite-support-api-0.4.0/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.0] /home/youssef/.gradle/caches/8.13/transforms/bd1151deefec6aead67515e9108eb3d5/transformed/tensorflow-lite-support-api-0.4.0/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] /home/youssef/.gradle/caches/8.13/transforms/b3f0d55247b0501ee7075832af81612c/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] /home/youssef/.gradle/caches/8.13/transforms/b3f0d55247b0501ee7075832af81612c/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml:7:5-8:41
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /home/youssef/.gradle/caches/8.13/transforms/9ad1f6ffeb5d45e0344d0645eb4a0404/transformed/image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /home/youssef/.gradle/caches/8.13/transforms/9ad1f6ffeb5d45e0344d0645eb4a0404/transformed/image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml
+		MERGED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml
+		MERGED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/069ac80a01fb053968a1566d08bfb250/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:24:9-33:19
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/0c16c2886211f04f10071c09b4bf84c0/transformed/camera-core-1.2.0-alpha04/AndroidManifest.xml:29:9-33:78
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/0c16c2886211f04f10071c09b4bf84c0/transformed/camera-core-1.2.0-alpha04/AndroidManifest.xml:29:9-33:78
+	tools:node
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/069ac80a01fb053968a1566d08bfb250/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:29:13-31
+	android:enabled
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/069ac80a01fb053968a1566d08bfb250/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:26:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/069ac80a01fb053968a1566d08bfb250/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/069ac80a01fb053968a1566d08bfb250/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:28:13-75
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/069ac80a01fb053968a1566d08bfb250/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:25:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/069ac80a01fb053968a1566d08bfb250/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:30:13-32:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/069ac80a01fb053968a1566d08bfb250/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:32:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/youssef/.gradle/caches/8.13/transforms/069ac80a01fb053968a1566d08bfb250/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:31:17-103
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.1.0-alpha03] /home/youssef/.gradle/caches/8.13/transforms/903afa26873b513e6539748e3e30ee9f/transformed/window-1.1.0-alpha03/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.1.0-alpha03] /home/youssef/.gradle/caches/8.13/transforms/903afa26873b513e6539748e3e30ee9f/transformed/window-1.1.0-alpha03/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.1.0-alpha03] /home/youssef/.gradle/caches/8.13/transforms/903afa26873b513e6539748e3e30ee9f/transformed/window-1.1.0-alpha03/AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.1.0-alpha03] /home/youssef/.gradle/caches/8.13/transforms/903afa26873b513e6539748e3e30ee9f/transformed/window-1.1.0-alpha03/AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.1.0-alpha03] /home/youssef/.gradle/caches/8.13/transforms/903afa26873b513e6539748e3e30ee9f/transformed/window-1.1.0-alpha03/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.1.0-alpha03] /home/youssef/.gradle/caches/8.13/transforms/903afa26873b513e6539748e3e30ee9f/transformed/window-1.1.0-alpha03/AndroidManifest.xml:27:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/youssef/.gradle/caches/8.13/transforms/18800c054c951fca4dbdcf689c3c52da/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/a9fe85b024daee9daee0c2b75a367184/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/a9fe85b024daee9daee0c2b75a367184/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/youssef/.gradle/caches/8.13/transforms/4405dbeed28858d9491e8340d598f0fd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/youssef/.gradle/caches/8.13/transforms/4405dbeed28858d9491e8340d598f0fd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/youssef/.gradle/caches/8.13/transforms/18800c054c951fca4dbdcf689c3c52da/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/youssef/.gradle/caches/8.13/transforms/18800c054c951fca4dbdcf689c3c52da/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/youssef/.gradle/caches/8.13/transforms/18800c054c951fca4dbdcf689c3c52da/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/youssef/.gradle/caches/8.13/transforms/18800c054c951fca4dbdcf689c3c52da/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/youssef/.gradle/caches/8.13/transforms/18800c054c951fca4dbdcf689c3c52da/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/youssef/.gradle/caches/8.13/transforms/18800c054c951fca4dbdcf689c3c52da/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/youssef/.gradle/caches/8.13/transforms/18800c054c951fca4dbdcf689c3c52da/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /home/youssef/.gradle/caches/8.13/transforms/ec1638c93fa07e8dd7b5f7baa9e2234b/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] /home/youssef/.gradle/caches/8.13/transforms/ec1638c93fa07e8dd7b5f7baa9e2234b/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /home/youssef/.gradle/caches/8.13/transforms/ec1638c93fa07e8dd7b5f7baa9e2234b/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+permission#org.tensorflow.lite.examples.gestureclassification.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /home/youssef/.gradle/caches/8.13/transforms/ec1638c93fa07e8dd7b5f7baa9e2234b/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] /home/youssef/.gradle/caches/8.13/transforms/ec1638c93fa07e8dd7b5f7baa9e2234b/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /home/youssef/.gradle/caches/8.13/transforms/ec1638c93fa07e8dd7b5f7baa9e2234b/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /home/youssef/.gradle/caches/8.13/transforms/ec1638c93fa07e8dd7b5f7baa9e2234b/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /home/youssef/.gradle/caches/8.13/transforms/ec1638c93fa07e8dd7b5f7baa9e2234b/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+uses-permission#org.tensorflow.lite.examples.gestureclassification.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /home/youssef/.gradle/caches/8.13/transforms/ec1638c93fa07e8dd7b5f7baa9e2234b/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /home/youssef/.gradle/caches/8.13/transforms/ec1638c93fa07e8dd7b5f7baa9e2234b/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/a9fe85b024daee9daee0c2b75a367184/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/a9fe85b024daee9daee0c2b75a367184/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/youssef/.gradle/caches/8.13/transforms/a9fe85b024daee9daee0c2b75a367184/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/youssef/.gradle/caches/8.13/transforms/fe121b1d0dc1659d2ff59d98180c14d9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:2:1-48:12 reason: tensorflow_lite_support.acceleration.configuration has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:2:1-48:12 reason: tensorflow_lite_support.acceleration.configuration has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/youssef/gesture/gesture_classification/lite/examples/gesture_classification/android/app/src/main/AndroidManifest.xml:2:1-48:12 reason: tensorflow_lite_support.acceleration.configuration requested WRITE_EXTERNAL_STORAGE
